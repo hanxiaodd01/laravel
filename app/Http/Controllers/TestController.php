@@ -11,5 +11,6 @@ class TestController extends Controller
         echo 'Hello World!';
         echo 'Hello World!';
         echo 'Hello World!';
+        echo 'Hello World!';
     }
 }
